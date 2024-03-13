@@ -1,6 +1,5 @@
 # AwesomeDevEvents - Curso Criando REST APIs com ASP.NET Core 
-Seguindo os vídeos do canal https://www.youtube.com/@luisdev.
-Desenvolvido um projeto para cadastro de eventos, utilizando ASP.NET Core 8.
+Projeto simples para cadastro de eventos, utilizando ASP.NET Core 8.
 
 # Tecnologias e ferramentas utilizadas
 Visual Studio 2022
